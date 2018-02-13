@@ -1,0 +1,18 @@
+Landsat 8 OLI-TIRS C1 LEVEL-1_gis/
+ASTER GLOBAL DEM_gis/
+.tif.aux
+.tif.aux?
+.tif.aux.xml
+.tif.aux.xml?
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+

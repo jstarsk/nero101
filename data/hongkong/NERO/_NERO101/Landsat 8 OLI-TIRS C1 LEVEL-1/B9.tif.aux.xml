@@ -1,0 +1,23 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="METADATATYPE">ODL</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>4976.505</HistMin>
+        <HistMax>5076.495</HistMax>
+        <BucketCount>100</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>1|0|1|1|1|0|0|0|1|0|0|2|1|6|10|8|10|16|20|27|33|56|56|72|101|134|188|228|268|353|381|509|599|801|945|1154|1286|1598|1770|1999|2190|2448|2701|2975|3092|3204|3431|3652|3606|3706|3768|3818|3847|3910|3641|3455|3205|2997|2761|2591|2397|2180|1928|1749|1609|1369|1226|1013|907|733|682|620|485|421|304|242|222|167|131|116|100|72|63|39|32|20|27|14|19|9|7|7|6|2|2|0|3|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">5076</MDI>
+      <MDI key="STATISTICS_MEAN">5027.8805484786</MDI>
+      <MDI key="STATISTICS_MINIMUM">4977</MDI>
+      <MDI key="STATISTICS_STDDEV">10.272755625021</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

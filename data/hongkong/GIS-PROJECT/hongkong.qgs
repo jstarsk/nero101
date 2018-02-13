@@ -1,0 +1,1380 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.18.16">
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <layer-tree-group expanded="1" checked="Qt::Unchecked" name="">
+    <customproperties/>
+    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="_NERO101">
+      <customproperties/>
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="_NERO10120180213123915137" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/SHP/_NERO101.shp" name="_NERO101">
+        <customproperties>
+          <property key="expandedLegendNodes"/>
+        </customproperties>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B1120180213124520999" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B11.tif" name="B11">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B1020180213124520991" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B10.tif" name="B10">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B920180213124520984" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B9.tif" name="B9">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B820180213124520974" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B8.tif" name="B8">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B720180213124520967" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B7.tif" name="B7">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B620180213124520959" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B6.tif" name="B6">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B520180213124520949" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B5.tif" name="B5">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B420180213124520939" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B4.tif" name="B4">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B320180213124520927" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B3.tif" name="B3">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B220180213124520911" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B2.tif" name="B2">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E114_newResolution20180213130340129" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/ASTER GLOBAL DEM/ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114_newResolution.tif" name="ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114_newResolution">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E11420180213130043330" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/ASTER GLOBAL DEM/ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114.tif" name="ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="B120180213124520881" source="C:/Users/starsky/StealingFired/nero101/data/hongkong/NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B1.tif" name="B1">
+        <customproperties/>
+      </layer-tree-layer>
+    </layer-tree-group>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>meters</units>
+    <extent>
+      <xmin>703821.25813117926008999</xmin>
+      <ymin>2320621.48802761128172278</ymin>
+      <xmax>814544.07088710577227175</xmax>
+      <ymax>2438693.70500088902190328</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>1</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+        <srsid>3133</srsid>
+        <srid>32649</srid>
+        <authid>EPSG:32649</authid>
+        <description>WGS 84 / UTM zone 49N</description>
+        <projectionacronym>utm</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B220180213124520911"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B220180212081906033"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B620180213142219566"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_BQA20180213122902572"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B1120180213122902544"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="OSM_Plugin_layer20180212082315060"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E114_newResolution20180213130340129"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B720180213122902393"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="_NERO10120180213123915137"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="006_AREACUT_HONGKONG20180212174906495"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B520180213142219545"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N21E113_dem20180213142255407"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="_NERO10120180213123252146"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="Untitled20180212082937132"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B820180213142219594"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B220180212174827479"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N21E113_dem20180212082013312"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_BQA20180212174827682"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B920180213142219603"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N21E114_dem20180212082528090"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B320180212174827510"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E11420180213130043330"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B1120180213142219626"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B320180213142219494"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B720180213124520967"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N21E113_dem20180212082435038"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B120180213124520881"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_BQA20180212081906456"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="reprojected_Cutlayer20180213125142502"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B320180212081906095"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="reprojected_Cutlayer20180212175720412"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B120180213122902114"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N22E114_dem20180212082555128"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B520180212081906225"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B720180212174827613"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B120180212174827442"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B820180212081906343"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B920180213122902484"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B520180212174827571"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B1120180212081906439"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N23E114_dem20180212082715793"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="reprojected_Cutlayer20180213123713865"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="reprojected_Cutlayer20180212175030181"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B120180212081905888"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B1120180212174827670"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B720180212081906315"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B1020180212081906422"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B720180213142219580"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B320180213122902213"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="Untitled20180212084720800"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B420180213124520939"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B920180212081906386"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N23E113_dem20180212082652777"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B820180212174827631"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B620180212081906273"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="reprojected_Cutlayer20180212174938623"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B1120180213124520999"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B120180213142219424"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N21E113_dem20180213142314876"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B420180212174827541"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B620180212174827595"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B420180213142219519"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="reprojected_Cutlayer20180212175700459"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B620180213124520959"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B1020180213124520991"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B420180212081906164"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B420180213122902257"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="Untitled20180212084439862"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="Untitled20180212084313870"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="OSM_Plugin_layer20180213123017376"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B1020180213122902517"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N22E113_dem20180212082543847"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B220180213142219469"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B220180213122902177"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B1020180213142219614"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B120180213123511200"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B520180213122902301"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B320180213124520927"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B920180212174827647"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E11420180213124835755"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="001_AREACUT_HONGKONG20180212083100590"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="gridtile20180212175632021"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B120180212085132707"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B1020180212174827659"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B620180213122902346"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_B820180213122902438"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B520180213124520949"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B820180213124520974"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="LC08_L1TP_122044_20171023_20171107_01_T1_BQA20180213142219639"/>
+      <layer_coordinate_transform destAuthId="EPSG:32649" srcAuthId="EPSG:32649" srcDatumTransform="-1" destDatumTransform="-1" layerid="B920180213124520984"/>
+    </layer_coordinate_transform_info>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="0">
+      <item>_NERO10120180213123915137</item>
+      <item>B120180213124520881</item>
+      <item>B220180213124520911</item>
+      <item>B320180213124520927</item>
+      <item>B420180213124520939</item>
+      <item>B520180213124520949</item>
+      <item>B620180213124520959</item>
+      <item>B720180213124520967</item>
+      <item>B820180213124520974</item>
+      <item>B920180213124520984</item>
+      <item>B1020180213124520991</item>
+      <item>B1120180213124520999</item>
+      <item>ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E11420180213130043330</item>
+      <item>ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E114_newResolution20180213130340129</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="true">
+    <legendgroup open="false" checked="Qt::Unchecked" name="_NERO101">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="_NERO101" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="_NERO10120180213123915137" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B11" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B1120180213124520999" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B10" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B1020180213124520991" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B9" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B920180213124520984" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B8" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B820180213124520974" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B7" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B720180213124520967" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B6" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B620180213124520959" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B5" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B520180213124520949" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B4" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B420180213124520939" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B3" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B320180213124520927" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B2" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B220180213124520911" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114_newResolution" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E114_newResolution20180213130340129" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E11420180213130043330" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="B1" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="B120180213124520881" visible="0"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
+  </legend>
+  <projectlayers>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>113.58128106461265361</xmin>
+        <ymin>22.19684014024181096</ymin>
+        <xmax>114.25998359327132903</xmax>
+        <ymax>22.6545823666874746</ymax>
+      </extent>
+      <id>ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E11420180213130043330</id>
+      <datasource>../NERO/_NERO101/ASTER GLOBAL DEM/ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>3</minValue>
+            <maxValue>489</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>113.58128106461265361</xmin>
+        <ymin>22.19684014024181096</ymin>
+        <xmax>114.25998359327132903</xmax>
+        <ymax>22.6545823666874746</ymax>
+      </extent>
+      <id>ASTGTM2_N21E113_N21E114_N22E113_N22E114_N23E113_N23E114_newResolution20180213130340129</id>
+      <datasource>../NERO/_NERO101/ASTER GLOBAL DEM/ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114_newResolution.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ASTGTM2_N21E113-N21E114-N22E113-N22E114-N23E113-N23E114_newResolution</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>3</minValue>
+            <maxValue>486</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B1020180213124520991</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B10.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B10</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>25346</minValue>
+            <maxValue>28044</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B1120180213124520999</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B11.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B11</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>23173</minValue>
+            <maxValue>25046</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B120180213124520881</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B1.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B1</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>9689</minValue>
+            <maxValue>12230</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B220180213124520911</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B2.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B2</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>8689</minValue>
+            <maxValue>11709</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B320180213124520927</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B3.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B3</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>7754</minValue>
+            <maxValue>11435</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B420180213124520939</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B4.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B4</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>6730</minValue>
+            <maxValue>11623</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B520180213124520949</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B5.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B5</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>6238</minValue>
+            <maxValue>20037</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B620180213124520959</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B6.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B6</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>5393</minValue>
+            <maxValue>14788</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B720180213124520967</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B7.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B7</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>5212</minValue>
+            <maxValue>12291</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B820180213124520974</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B8.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B8</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>7343</minValue>
+            <maxValue>11670</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>766114.91585379955358803</xmin>
+        <ymin>2458207.25465129734948277</ymin>
+        <xmax>835089.89657669118605554</xmax>
+        <ymax>2507600.35525370715186</ymax>
+      </extent>
+      <id>B920180213124520984</id>
+      <datasource>../NERO/_NERO101/Landsat 8 OLI-TIRS C1 LEVEL-1/B9.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>B9</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>5006</minValue>
+            <maxValue>5050</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>_NERO10120180213123915137</id>
+      <datasource>../SHP/_NERO101.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>_NERO101</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=49 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3133</srsid>
+          <srid>32649</srid>
+          <authid>EPSG:32649</authid>
+          <description>WGS 84 / UTM zone 49N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="System">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="id">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="140,160,217,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>id</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name="MS Shell Dlg 2"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <annotationform>.</annotationform>
+      <aliases>
+        <alias field="id" index="0" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns/>
+      </attributetableconfig>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <defaults>
+        <default field="id" expression=""/>
+      </defaults>
+      <previewExpression></previewExpression>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>12601714.23120000027120113</xmin>
+        <ymin>2661231.57677590381354094</ymin>
+        <xmax>12679985.74816409684717655</xmax>
+        <ymax>2739503.09373999992385507</ymax>
+      </extent>
+      <id>qosm_osm_x417_y221_z920180212082839237</id>
+      <datasource>../../../../../.qgis2/python/plugins/qosm/qosm.cache/osm/9_417_221.png</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>qosm_osm_x417_y221_z9</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
+          <srsid>3857</srsid>
+          <srid>3857</srid>
+          <authid>EPSG:3857</authid>
+          <description>WGS 84 / Pseudo Mercator</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="paletted">
+          <rasterTransparency/>
+          <colorPalette>
+            <paletteEntry value="0" color="#292929" label="0"/>
+            <paletteEntry value="1" color="#302f2e" label="1"/>
+            <paletteEntry value="2" color="#393938" label="2"/>
+            <paletteEntry value="3" color="#413d3d" label="3"/>
+            <paletteEntry value="4" color="#3f4040" label="4"/>
+            <paletteEntry value="5" color="#43403e" label="5"/>
+            <paletteEntry value="6" color="#473e40" label="6"/>
+            <paletteEntry value="7" color="#444443" label="7"/>
+            <paletteEntry value="8" color="#4b4443" label="8"/>
+            <paletteEntry value="9" color="#464846" label="9"/>
+            <paletteEntry value="10" color="#474a4b" label="10"/>
+            <paletteEntry value="11" color="#4e4945" label="11"/>
+            <paletteEntry value="12" color="#4c4c4c" label="12"/>
+            <paletteEntry value="13" color="#544b4b" label="13"/>
+            <paletteEntry value="14" color="#4f514f" label="14"/>
+            <paletteEntry value="15" color="#4f5151" label="15"/>
+            <paletteEntry value="16" color="#55514e" label="16"/>
+            <paletteEntry value="17" color="#5a4e50" label="17"/>
+            <paletteEntry value="18" color="#545453" label="18"/>
+            <paletteEntry value="19" color="#5b5452" label="19"/>
+            <paletteEntry value="20" color="#575956" label="20"/>
+            <paletteEntry value="21" color="#55595a" label="21"/>
+            <paletteEntry value="22" color="#5a5956" label="22"/>
+            <paletteEntry value="23" color="#5c5c5c" label="23"/>
+            <paletteEntry value="24" color="#5b5e60" label="24"/>
+            <paletteEntry value="25" color="#655b5a" label="25"/>
+            <paletteEntry value="26" color="#5f615e" label="26"/>
+            <paletteEntry value="27" color="#5e6263" label="27"/>
+            <paletteEntry value="28" color="#67625d" label="28"/>
+            <paletteEntry value="29" color="#646363" label="29"/>
+            <paletteEntry value="30" color="#6d5d61" label="30"/>
+            <paletteEntry value="31" color="#636768" label="31"/>
+            <paletteEntry value="32" color="#696665" label="32"/>
+            <paletteEntry value="33" color="#676a66" label="33"/>
+            <paletteEntry value="34" color="#6a6966" label="34"/>
+            <paletteEntry value="35" color="#656a6b" label="35"/>
+            <paletteEntry value="36" color="#6c6c6b" label="36"/>
+            <paletteEntry value="37" color="#756967" label="37"/>
+            <paletteEntry value="38" color="#696f70" label="38"/>
+            <paletteEntry value="39" color="#6e706d" label="39"/>
+            <paletteEntry value="40" color="#6c7172" label="40"/>
+            <paletteEntry value="41" color="#77726c" label="41"/>
+            <paletteEntry value="42" color="#796e70" label="42"/>
+            <paletteEntry value="43" color="#747473" label="43"/>
+            <paletteEntry value="44" color="#717678" label="44"/>
+            <paletteEntry value="45" color="#7b7472" label="45"/>
+            <paletteEntry value="46" color="#767875" label="46"/>
+            <paletteEntry value="47" color="#7a7876" label="47"/>
+            <paletteEntry value="48" color="#757b7c" label="48"/>
+            <paletteEntry value="49" color="#7c7c7b" label="49"/>
+            <paletteEntry value="50" color="#887975" label="50"/>
+            <paletteEntry value="51" color="#797e80" label="51"/>
+            <paletteEntry value="52" color="#7e817d" label="52"/>
+            <paletteEntry value="53" color="#7d8384" label="53"/>
+            <paletteEntry value="54" color="#848483" label="54"/>
+            <paletteEntry value="55" color="#8c847d" label="55"/>
+            <paletteEntry value="56" color="#858984" label="56"/>
+            <paletteEntry value="57" color="#898685" label="57"/>
+            <paletteEntry value="58" color="#898986" label="58"/>
+            <paletteEntry value="59" color="#848a8b" label="59"/>
+            <paletteEntry value="60" color="#9f7b83" label="60"/>
+            <paletteEntry value="61" color="#8c8c8b" label="61"/>
+            <paletteEntry value="62" color="#868e90" label="62"/>
+            <paletteEntry value="63" color="#968a87" label="63"/>
+            <paletteEntry value="64" color="#8d918d" label="64"/>
+            <paletteEntry value="65" color="#96928b" label="65"/>
+            <paletteEntry value="66" color="#8c9496" label="66"/>
+            <paletteEntry value="67" color="#9a8e90" label="67"/>
+            <paletteEntry value="68" color="#a7957c" label="68"/>
+            <paletteEntry value="69" color="#949492" label="69"/>
+            <paletteEntry value="70" color="#939798" label="70"/>
+            <paletteEntry value="71" color="#959a94" label="71"/>
+            <paletteEntry value="72" color="#999694" label="72"/>
+            <paletteEntry value="73" color="#999996" label="73"/>
+            <paletteEntry value="74" color="#949a9b" label="74"/>
+            <paletteEntry value="75" color="#a89590" label="75"/>
+            <paletteEntry value="76" color="#9c9c9b" label="76"/>
+            <paletteEntry value="77" color="#d1778b" label="77"/>
+            <paletteEntry value="78" color="#b9a07c" label="78"/>
+            <paletteEntry value="79" color="#999ea0" label="79"/>
+            <paletteEntry value="80" color="#9ca29a" label="80"/>
+            <paletteEntry value="81" color="#e66e89" label="81"/>
+            <paletteEntry value="82" color="#e7738c" label="82"/>
+            <paletteEntry value="83" color="#9aa6a8" label="83"/>
+            <paletteEntry value="84" color="#aea49a" label="84"/>
+            <paletteEntry value="85" color="#cbac7e" label="85"/>
+            <paletteEntry value="86" color="#e87a93" label="86"/>
+            <paletteEntry value="87" color="#a8a8a6" label="87"/>
+            <paletteEntry value="88" color="#b79ca3" label="88"/>
+            <paletteEntry value="89" color="#d3899a" label="89"/>
+            <paletteEntry value="90" color="#ea8589" label="90"/>
+            <paletteEntry value="91" color="#f08b82" label="91"/>
+            <paletteEntry value="92" color="#a7aeb0" label="92"/>
+            <paletteEntry value="93" color="#e9859a" label="93"/>
+            <paletteEntry value="94" color="#f5987b" label="94"/>
+            <paletteEntry value="95" color="#acb3aa" label="95"/>
+            <paletteEntry value="96" color="#b5aba9" label="96"/>
+            <paletteEntry value="97" color="#ed9788" label="97"/>
+            <paletteEntry value="98" color="#cb9ca7" label="98"/>
+            <paletteEntry value="99" color="#cfaf92" label="99"/>
+            <paletteEntry value="100" color="#b5b1ac" label="100"/>
+            <paletteEntry value="101" color="#f59d82" label="101"/>
+            <paletteEntry value="102" color="#a9b5b7" label="102"/>
+            <paletteEntry value="103" color="#c7a8a8" label="103"/>
+            <paletteEntry value="104" color="#f0aa7e" label="104"/>
+            <paletteEntry value="105" color="#ea8da2" label="105"/>
+            <paletteEntry value="106" color="#f19791" label="106"/>
+            <paletteEntry value="107" color="#b4b4b2" label="107"/>
+            <paletteEntry value="108" color="#eda489" label="108"/>
+            <paletteEntry value="109" color="#ec979b" label="109"/>
+            <paletteEntry value="110" color="#b4bab2" label="110"/>
+            <paletteEntry value="111" color="#e4bb82" label="111"/>
+            <paletteEntry value="112" color="#f5a38a" label="112"/>
+            <paletteEntry value="113" color="#b9b6b4" label="113"/>
+            <paletteEntry value="114" color="#d5a6aa" label="114"/>
+            <paletteEntry value="115" color="#c8b8a8" label="115"/>
+            <paletteEntry value="116" color="#b6b9ba" label="116"/>
+            <paletteEntry value="117" color="#b9bab6" label="117"/>
+            <paletteEntry value="118" color="#ccabb2" label="118"/>
+            <paletteEntry value="119" color="#eaa998" label="119"/>
+            <paletteEntry value="120" color="#eb97a9" label="120"/>
+            <paletteEntry value="121" color="#f2b785" label="121"/>
+            <paletteEntry value="122" color="#f09fa1" label="122"/>
+            <paletteEntry value="123" color="#b1bec2" label="123"/>
+            <paletteEntry value="124" color="#a2c3cd" label="124"/>
+            <paletteEntry value="125" color="#d4b8a8" label="125"/>
+            <paletteEntry value="126" color="#f5ab94" label="126"/>
+            <paletteEntry value="127" color="#bdbcbc" label="127"/>
+            <paletteEntry value="128" color="#d6abb4" label="128"/>
+            <paletteEntry value="129" color="#bcc4b8" label="129"/>
+            <paletteEntry value="130" color="#c5bbb8" label="130"/>
+            <paletteEntry value="131" color="#ecc389" label="131"/>
+            <paletteEntry value="132" color="#eca2ab" label="132"/>
+            <paletteEntry value="133" color="#f3c482" label="133"/>
+            <paletteEntry value="134" color="#cec0ac" label="134"/>
+            <paletteEntry value="135" color="#ec9eb0" label="135"/>
+            <paletteEntry value="136" color="#f3a8a5" label="136"/>
+            <paletteEntry value="137" color="#c3c1bd" label="137"/>
+            <paletteEntry value="138" color="#f5b29b" label="138"/>
+            <paletteEntry value="139" color="#f3c789" label="139"/>
+            <paletteEntry value="140" color="#bdc3c4" label="140"/>
+            <paletteEntry value="141" color="#d5c4ab" label="141"/>
+            <paletteEntry value="142" color="#d7b8b8" label="142"/>
+            <paletteEntry value="143" color="#ecb6a5" label="143"/>
+            <paletteEntry value="144" color="#f3c98c" label="144"/>
+            <paletteEntry value="145" color="#abcbd4" label="145"/>
+            <paletteEntry value="146" color="#eda7b6" label="146"/>
+            <paletteEntry value="147" color="#c4c4c3" label="147"/>
+            <paletteEntry value="148" color="#ebca98" label="148"/>
+            <paletteEntry value="149" color="#c2d1bb" label="149"/>
+            <paletteEntry value="150" color="#c1c7c8" label="150"/>
+            <paletteEntry value="151" color="#c4c9c3" label="151"/>
+            <paletteEntry value="152" color="#c9c6c5" label="152"/>
+            <paletteEntry value="153" color="#f4cc95" label="153"/>
+            <paletteEntry value="154" color="#e6cca4" label="154"/>
+            <paletteEntry value="155" color="#f0adba" label="155"/>
+            <paletteEntry value="156" color="#f6baa7" label="156"/>
+            <paletteEntry value="157" color="#c9c9c6" label="157"/>
+            <paletteEntry value="158" color="#d8c9b7" label="158"/>
+            <paletteEntry value="159" color="#c5cacc" label="159"/>
+            <paletteEntry value="160" color="#efd19b" label="160"/>
+            <paletteEntry value="161" color="#ecb4bc" label="161"/>
+            <paletteEntry value="162" color="#abd3df" label="162"/>
+            <paletteEntry value="163" color="#add4e0" label="163"/>
+            <paletteEntry value="164" color="#f1b5bb" label="164"/>
+            <paletteEntry value="165" color="#f4d19d" label="165"/>
+            <paletteEntry value="166" color="#c4ced1" label="166"/>
+            <paletteEntry value="167" color="#cccccb" label="167"/>
+            <paletteEntry value="168" color="#f6c3aa" label="168"/>
+            <paletteEntry value="169" color="#b2d6e0" label="169"/>
+            <paletteEntry value="170" color="#cbd6c7" label="170"/>
+            <paletteEntry value="171" color="#d3ccca" label="171"/>
+            <paletteEntry value="172" color="#eac6b9" label="172"/>
+            <paletteEntry value="173" color="#edd4a8" label="173"/>
+            <paletteEntry value="174" color="#dcd0bf" label="174"/>
+            <paletteEntry value="175" color="#b8d9db" label="175"/>
+            <paletteEntry value="176" color="#edbac5" label="176"/>
+            <paletteEntry value="177" color="#b6d8e1" label="177"/>
+            <paletteEntry value="178" color="#b8d7e0" label="178"/>
+            <paletteEntry value="179" color="#f5d5a7" label="179"/>
+            <paletteEntry value="180" color="#d4d3cd" label="180"/>
+            <paletteEntry value="181" color="#f7c8b8" label="181"/>
+            <paletteEntry value="182" color="#bcdae2" label="182"/>
+            <paletteEntry value="183" color="#c5dbd8" label="183"/>
+            <paletteEntry value="184" color="#eac7c9" label="184"/>
+            <paletteEntry value="185" color="#ead9b7" label="185"/>
+            <paletteEntry value="186" color="#d4d4d3" label="186"/>
+            <paletteEntry value="187" color="#dccfd1" label="187"/>
+            <paletteEntry value="188" color="#cae2d3" label="188"/>
+            <paletteEntry value="189" color="#cee4cf" label="189"/>
+            <paletteEntry value="190" color="#d2d7d8" label="190"/>
+            <paletteEntry value="191" color="#d5dbd3" label="191"/>
+            <paletteEntry value="192" color="#f4c6ca" label="192"/>
+            <paletteEntry value="193" color="#c5dde3" label="193"/>
+            <paletteEntry value="194" color="#d9d7d5" label="194"/>
+            <paletteEntry value="195" color="#e7cad4" label="195"/>
+            <paletteEntry value="196" color="#d4e7cc" label="196"/>
+            <paletteEntry value="197" color="#e8d8c7" label="197"/>
+            <paletteEntry value="198" color="#dad9d6" label="198"/>
+            <paletteEntry value="199" color="#f6dcb8" label="199"/>
+            <paletteEntry value="200" color="#d4dcdd" label="200"/>
+            <paletteEntry value="201" color="#f4cad2" label="201"/>
+            <paletteEntry value="202" color="#f3e0be" label="202"/>
+            <paletteEntry value="203" color="#dcdcda" label="203"/>
+            <paletteEntry value="204" color="#cce1e6" label="204"/>
+            <paletteEntry value="205" color="#dae8d4" label="205"/>
+            <paletteEntry value="206" color="#f8d6c8" label="206"/>
+            <paletteEntry value="207" color="#ebe4c9" label="207"/>
+            <paletteEntry value="208" color="#e5e2d2" label="208"/>
+            <paletteEntry value="209" color="#d3e3e5" label="209"/>
+            <paletteEntry value="210" color="#e5dcda" label="210"/>
+            <paletteEntry value="211" color="#e2e1de" label="211"/>
+            <paletteEntry value="212" color="#d3e6ea" label="212"/>
+            <paletteEntry value="213" color="#e2ebd6" label="213"/>
+            <paletteEntry value="214" color="#ede4d3" label="214"/>
+            <paletteEntry value="215" color="#f7e4c9" label="215"/>
+            <paletteEntry value="216" color="#f6d8d8" label="216"/>
+            <paletteEntry value="217" color="#dbe6e6" label="217"/>
+            <paletteEntry value="218" color="#eaead5" label="218"/>
+            <paletteEntry value="219" color="#d5e8ed" label="219"/>
+            <paletteEntry value="220" color="#dbe6e9" label="220"/>
+            <paletteEntry value="221" color="#e3ecdc" label="221"/>
+            <paletteEntry value="222" color="#e5e4e2" label="222"/>
+            <paletteEntry value="223" color="#ece4dc" label="223"/>
+            <paletteEntry value="224" color="#dfe8e6" label="224"/>
+            <paletteEntry value="225" color="#e2e6e9" label="225"/>
+            <paletteEntry value="226" color="#f4dce1" label="226"/>
+            <paletteEntry value="227" color="#dceaec" label="227"/>
+            <paletteEntry value="228" color="#e9e6e3" label="228"/>
+            <paletteEntry value="229" color="#e3eae6" label="229"/>
+            <paletteEntry value="230" color="#e4f0df" label="230"/>
+            <paletteEntry value="231" color="#ebecdc" label="231"/>
+            <paletteEntry value="232" color="#ece4e9" label="232"/>
+            <paletteEntry value="233" color="#f8e9d8" label="233"/>
+            <paletteEntry value="234" color="#dcedf1" label="234"/>
+            <paletteEntry value="235" color="#e4ebeb" label="235"/>
+            <paletteEntry value="236" color="#ebebe4" label="236"/>
+            <paletteEntry value="237" color="#e3eef1" label="237"/>
+            <paletteEntry value="238" color="#ecede9" label="238"/>
+            <paletteEntry value="239" color="#ebf3e8" label="239"/>
+            <paletteEntry value="240" color="#f8f0df" label="240"/>
+            <paletteEntry value="241" color="#f2efe9" label="241"/>
+            <paletteEntry value="242" color="#f5f1e6" label="242"/>
+            <paletteEntry value="243" color="#faf1e4" label="243"/>
+            <paletteEntry value="244" color="#eaf2f4" label="244"/>
+            <paletteEntry value="245" color="#f4f2ed" label="245"/>
+            <paletteEntry value="246" color="#faeef0" label="246"/>
+            <paletteEntry value="247" color="#faf3ec" label="247"/>
+            <paletteEntry value="248" color="#f6f5f1" label="248"/>
+            <paletteEntry value="249" color="#f1f7f8" label="249"/>
+            <paletteEntry value="250" color="#f5f9f3" label="250"/>
+            <paletteEntry value="251" color="#f9f6f4" label="251"/>
+            <paletteEntry value="252" color="#f4f9fa" label="252"/>
+            <paletteEntry value="253" color="#f8f7f9" label="253"/>
+            <paletteEntry value="254" color="#faf9f6" label="254"/>
+            <paletteEntry value="255" color="#fcfbfa" label="255"/>
+          </colorPalette>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2" zoomedOutResampler="bilinear" zoomedInResampler="bilinear"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString"></DistanceUnits>
+      <AreaUnits type="QString"></AreaUnits>
+    </Measurement>
+    <SpatialRefSys>
+      <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+      <ProjectCRSID type="int">3452</ProjectCRSID>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Gui>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+    </Gui>
+    <Digitizing>
+      <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <LayerSnappingList type="QStringList">
+        <value>_NERO10120180213123915137</value>
+      </LayerSnappingList>
+      <LayerSnappingEnabledList type="QStringList">
+        <value>disabled</value>
+      </LayerSnappingEnabledList>
+      <SnappingMode type="QString">current_layer</SnappingMode>
+      <AvoidIntersectionsList type="QStringList"/>
+      <LayerSnappingToleranceUnitList type="QStringList">
+        <value>2</value>
+      </LayerSnappingToleranceUnitList>
+      <LayerSnapToList type="QStringList">
+        <value>to_vertex_and_segment</value>
+      </LayerSnapToList>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
+      <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
+      <LayerSnappingToleranceList type="QStringList">
+        <value>0.000000</value>
+      </LayerSnappingToleranceList>
+    </Digitizing>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>
